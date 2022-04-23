@@ -6,10 +6,6 @@
 
 ![](./screenshot.png)
 
-### Links
-
--   URL: em breve
-
 ## Meu processo
 
 ### Construído com
